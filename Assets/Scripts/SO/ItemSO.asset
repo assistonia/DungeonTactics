@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 642307b65b4cafc4db61072d2ebf6447, type: 3}
+  m_Name: ItemSO
+  m_EditorClassIdentifier: 
+  items:
+  - name: a
+    attack: 2
+    health: 5
+    Sprite: {fileID: 21300000, guid: b37c20b0f8b30634d99b41cb21be13df, type: 3}
+    percent: 12
+  - name: b
+    attack: 1
+    health: 7
+    Sprite: {fileID: 21300000, guid: 2603ad8e474b78647ba261891bce0754, type: 3}
+    percent: 10
+  - name: c
+    attack: 4
+    health: 4
+    Sprite: {fileID: 21300000, guid: 5135eda3dccdc8242ac3bf46561e700b, type: 3}
+    percent: 10
+  - name: d
+    attack: 1
+    health: 4
+    Sprite: {fileID: 21300000, guid: 738d3f2a7c4ba5b4199d125dbf721333, type: 3}
+    percent: 15
+  - name: e
+    attack: 1
+    health: 3
+    Sprite: {fileID: 21300000, guid: 9b9306c350500e34cb16d5ec91585ce9, type: 3}
+    percent: 15
+  - name: f
+    attack: 3
+    health: 4
+    Sprite: {fileID: 21300000, guid: 77167b759dc19a34a86b60e4fdca03ef, type: 3}
+    percent: 8
+  - name: g
+    attack: 4
+    health: 5
+    Sprite: {fileID: 21300000, guid: be5a14ccd0390de4cbdaaddade672629, type: 3}
+    percent: 10
+  - name: h
+    attack: 3
+    health: 4
+    Sprite: {fileID: 21300000, guid: 579f6351bd7ea3743815e8d2c1de2a10, type: 3}
+    percent: 8
+  - name: i
+    attack: 3
+    health: 4
+    Sprite: {fileID: 21300000, guid: f0f45dccb838fe54ca09f83d58b26bcd, type: 3}
+    percent: 8
+  - name: j
+    attack: 4
+    health: 8
+    Sprite: {fileID: 21300000, guid: 1a4dbd6a882f7524b95199886e1ce3ba, type: 3}
+    percent: 4
